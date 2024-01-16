@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:background="@drawable/purple_gradient">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="?attr/actionBarTheme"
+        android:popupTheme="?attr/actionBarPopupTheme" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:background="@drawable/teal_gradient" />
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="191dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/black_to_white_gradient"
+        android:padding="16dp"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="click button to continue"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/purple_gradient" />
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061688625854",
+    "project_id": "grass-dd64b",
+    "storage_bucket": "grass-dd64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061688625854:android:7baa09679037018228acef",
+        "android_client_info": {
+          "package_name": "Boston.Fa1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061688625854-e7267a4rn68fqtpl5ldt71kgaaplj9vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpC0A1nBMcISj4DDHh2aOlNVUZBcCPEFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061688625854-e7267a4rn68fqtpl5ldt71kgaaplj9vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gwaragwara Pvt Limited</string>
+    <string name="app_name_english">Gwaragwara Pvt Limited (English)</string>
+    <string name="app_name_zulu">Gwaragwara Pvt Limited</string>
+    <string name="app_name_afrikaans">Gwaragwara Pvt Limited (Afrikaans)</string>
+    <string name="button_text_english">Inkinobho</string>
+    <string name="button_text_zulu">Inkinobho</string>
+    <string name="button_text_afrikaans">Inkinobho</string>
+    <string name="welcome_message_english">Wamukelekile ekhasini lesi-2</string>
+    <string name="welcome_message_zulu">Wamukelekile ekhasini lesi-2</string>
+    <string name="welcome_message_afrikaans">Wamukelekile ekhasini lesi-2</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gwaragwara Pvt Limited</string>
+    <string name="app_name_english">Gwaragwara Pvt Limited (English)</string>
+    <string name="app_name_zulu">Gwaragwara Pvt Limited (Zulu)</string>
+    <string name="app_name_afrikaans">Gwaragwara Pvt Limited</string>
+    <string name="button_text_english">Knoppie</string>
+    <string name="button_text_zulu">Knoppie</string>
+    <string name="button_text_afrikaans">Knoppie</string>
+    <string name="welcome_message_english">Welkom op bladsy 2</string>
+    <string name="welcome_message_zulu">Welkom op bladsy 2</string>
+    <string name="welcome_message_afrikaans">Welkom op bladsy 2</string>
+
+</resources>
