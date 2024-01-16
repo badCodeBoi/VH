@@ -1,0 +1,64 @@
+body {
+    opacity: 0.7;
+    margin: 80px;
+    background-image: url('16.jpeg');
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+   }
+   #basicInfo
+   {   
+     font-family: Arial, sans-serif;
+       color: black;
+       font-size: 20px;
+       text-align: center;
+       background-color: gray;
+   }
+   #margin
+   {
+    margin-top: 20px;   
+    background-color: gray;
+    margin-left: 140px;
+    margin-right: 140px;
+   }
+   #comment
+   {
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+   }
+   #commentBox
+   {
+    background-color: black;
+    color: limegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+   }
+   #rating
+   {
+    background-color: black;
+    color: purple;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+   }
+   #commentBox:hover {
+    background-color: wheat;
+  }
+  input[type="radio"]
+  {
+    height: 25px;
+    width: 25px;
+    background: green;
+  }
+  #PostButton
+  {
+    background-color: black;
+    color: wheat;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+  }
+  #PostButton:hover{
+      background-color: yellowgreen;
+      color: black;
+  }

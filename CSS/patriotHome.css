@@ -1,0 +1,108 @@
+body {
+    margin: 70px;
+    background-image: url('100.jpeg');
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+}
+
+a:link, a:visited {
+    background-color: blue;
+    color: wheat;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: medium;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    transition: background-color 0.3s ease;
+}
+
+a:hover, a:active {
+    background-color: linear-gradient(to right, #3498db, #8e44ad);
+    color: brown;
+}
+
+#center {
+    text-align: center;
+    font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif;
+}
+
+input[type=text], input[type=password], select {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border: 1px solid brown;
+    border-radius: 8px;
+    box-sizing: border-box;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+textarea {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: linear-gradient(to right, #3498db, #8e44ad);
+    color: white;
+    padding: 14px 20px;
+    margin: 1px 0;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: medium;
+    transition: background-color 0.3s ease;
+}
+
+input[type=submit]:hover {
+    background-color: linear-gradient(to right, #3498db, #8e44ad);
+}
+
+h1, h2, h3 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    font-size: medium;
+    color: red;
+}
+
+#margin {
+    margin-top: 20px;
+    background-color: wheat;
+    margin: 0 auto; 
+    max-width: 100%; 
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#box {
+    width: 90%;
+    border: 15px solid black;
+    padding: 40px;
+    margin: 40px;
+    align-items: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: wheat;
+    text-align: center;
+    padding: 10px;
+    border-top-right-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
